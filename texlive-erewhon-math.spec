@@ -1,6 +1,6 @@
 Name:		texlive-erewhon-math
-Version:	64925
-Release:	2
+Version:	68990
+Release:	1
 Summary:	Utopia based OpenType Math font
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/erewhon-math

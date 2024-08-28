@@ -1,5 +1,5 @@
 Name:		texlive-erewhon-math
-Version:	69480
+Version:	70295
 Release:	1
 Summary:	Utopia based OpenType Math font
 Group:		Publishing

@@ -3,7 +3,7 @@ Version:	70295
 Release:	1
 Summary:	Utopia based OpenType Math font
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/erewhon-math
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/erewhon-math
 License:	ofl lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/erewhon-math.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/erewhon-math.doc.r%{version}.tar.xz
